@@ -14,9 +14,13 @@ Welcome to the official code repository for the **Data Structures in Python** se
 
 | Part | Topic | Code Link | Video Link |
 | :--- | :--- | :--- | :--- |
-| 01 | Introduction to Linked Lists | [View](./LinkedList/01_Intro) | [[Watch]]([url](https://www.youtube.com/watch?v=F81nDlxzjII&list=PLMsw1Zy78Kz3THKZUYuht-dLB7bwlheZ-&index=1)) |
-| 02 | **Manual Node Connection & Display** | [View](./LinkedList/02_Manual_Connection) 
-| 03-24| *Insertion, Deletion, Reversing, & more...* | Coming Soon | Coming Soon |
+| 01 | Introduction to Linked Lists | [View Code](https://github.com/StudyTrigger/Data-Structure-In-Python/tree/main/LinkedList) | [Watch Video](https://youtu.be/F81nDlxzjII?si=BZE7XPJ3wfYRBgsk) |
+| 02 | **Manual Node Connection & Display** | [View Code](https://github.com/StudyTrigger/Data-Structure-In-Python/blob/main/LinkedList/CreatingNode.py) | [Watch Video](https://youtu.be/EQU74eb6Tws?si=F05TQZzPu8YOmG12) |
+| 03 | **Insert Node at Beginning** | [View Code](https://github.com/StudyTrigger/Data-Structure-In-Python/blob/main/LinkedList/InsertNodeAtBegUserInputValue.py) | [Watch Video](https://youtu.be/meUWpZgfc9w?si=z6EsVW7y-YIW9pZU) |
+| 04 | **Display Only Even Elements** | [View Code](https://github.com/StudyTrigger/Data-Structure-In-Python/blob/main/LinkedList/DisplayEvenElements.py) | [Watch Video](https://youtu.be/Ww7OWaanFd0?si=qhhLubL57L9MTJQG) |
+| 05 | **Count, Sum, and Average Logic** | [View Code](https://github.com/StudyTrigger/Data-Structure-In-Python/blob/main/LinkedList/Video_5_Sum_Count_Avg.py) | *Coming Soon* |
+| 06 | **Display Alternate Elements** | *Coming Soon* | *Coming Soon* |
+| 07-24| *Insertion, Deletion, Reversing, & more...* | *In Progress* | *In Progress* |
 
 ### 2. Stacks & Queues (Upcoming 🔜)
 * Implementation using Arrays & Linked Lists.
