@@ -4,7 +4,7 @@ Welcome to the official code repository for the **Data Structures in Python** se
 
 ## 📺 Stay Connected
 * **YouTube Channel:** [Study Trigger](https://youtube.com/@StudyTrigger)
-* **Full Playlist:** [[Data Structure in Python | Linked List Complete Course]]([url](https://youtube.com/playlist?list=PLMsw1Zy78Kz3THKZUYuht-dLB7bwlheZ-&si=DBh3ci0oI6IAUkhL))
+* **Full Playlist:** [[Data Structure in Python | [Linked List Complete Course]([url](https://youtube.com/playlist?list=PLMsw1Zy78Kz3THKZUYuht-dLB7bwlheZ-&si=DBh3ci0oI6IAUkhL))]]([url](https://youtube.com/playlist?list=PLMsw1Zy78Kz3THKZUYuht-dLB7bwlheZ-&si=DBh3ci0oI6IAUkhL))
 ---
 
 ## 🛠️ Course Roadmap
