@@ -56,6 +56,6 @@ mylist.display()
 middle_node = mylist.find_middle()
 
 if middle_node:
-    print(f"\nMiddle Element is: {middle_node.info} 🔥")
+    print(f"\nMiddle Element is: {middle_node.info}")
 else:
     print("\nThe list is empty.")
